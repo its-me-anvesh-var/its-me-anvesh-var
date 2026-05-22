@@ -28,7 +28,7 @@
 ## `$ cat about_me.txt`
 
 ```
-Name      : Anvesh Raju Varadharaju
+Name      : Anvesh Raju Vishwaraju
 Degrees   : MS Cybersecurity — UNC Charlotte (2023)
             MTech AI — University of Hyderabad (2022)
 Research  : IDRBT — RBI's Technology Research Institute
@@ -143,7 +143,7 @@ I sit at the **intersection of AI/ML and cybersecurity** — trained in both at 
 
 ---
 
-### 🛠️ [CLI Security Tools Suite](https://github.com/its-me-anvesh-var/cli-security-tools)
+### 🛠️ [PentestX](https://github.com/its-me-anvesh-var/pentestx)
 `Python` `Bash` `VirusTotal API` `NVD API` `PowerShell`
 
 **SOC analyst's command-line toolkit** — fast, scriptable utilities for daily operations. Built for analysts who live in the terminal and need automation without a GUI.
